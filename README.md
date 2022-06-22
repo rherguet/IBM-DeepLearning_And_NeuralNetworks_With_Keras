@@ -3,7 +3,7 @@ The repo contains the materials used for the second course of the AI Engineering
 The syllabus is as follows:
   - Week 1: Introduction to Neural Networks and Deep Learning
     - Introduction to Deep Learning
-    - Neural Networks - making predictions: neurons and neural networks, artificial neural networks
+    - Neural Networks - making predictions: neurons and biological neural networks, artificial neural networks and forward propagation
   - Week 2: Artificial neural networks: training a neural network (Gradient Descent, Backpropagation, Vanishing Gradient, Activation Functions)
   - Week 3: Keras and Deep Learning Libraries
     - Deep Learning Libraries
